@@ -1,0 +1,9 @@
+name = "link-memo"
+main = "worker.js"
+compatibility_date = "2025-01-01"
+
+# D1(メモを保存するデータベース)。database_id は自分のものに書き換える
+[[d1_databases]]
+binding = "DB"
+database_name = "link-memo"
+database_id = "ここを自分のDatabase IDに書き換える"
