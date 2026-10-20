@@ -6,4 +6,4 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "memo-share"
-database_id = "ここを自分のDatabase IDに書き換える"
+database_id = "dffeee8c-9396-4858-a4c2-8669a662fb07"
