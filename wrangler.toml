@@ -1,4 +1,5 @@
 name = "memo-share"
+workers_dev = true
 main = "worker.js"
 compatibility_date = "2025-01-01"
 
