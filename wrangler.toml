@@ -1,6 +1,6 @@
 name = "memo-share"
 workers_dev = true
-main = "worker.js"
+main = "memo-worker.js"
 compatibility_date = "2025-01-01"
 
 # D1(メモを保存するデータベース)。database_id は自分のものに書き換える
